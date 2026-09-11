@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahyaankhan47.github.io/Aesthetic-Apparels/sitemap.xml
