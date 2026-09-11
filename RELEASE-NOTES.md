@@ -14,7 +14,7 @@ Approved accessibility, privacy, inquiry and performance changes. Production pag
 
 ## Account and business checks
 
-The existing Web3Forms submission key is public by design and was preserved. Its destination inbox cannot be verified from source. Confirm in Web3Forms that it delivers to contactus.aestheticapparels@gmail.com and that hCaptcha is enabled as the mandatory Block Spam option. Frontend checks do not replace provider enforcement. Provider-side quotas, field validation, mailbox access and retention require account verification.
+On 11 September 2026, the business email was verified in Web3Forms and a new form was created on the free plan (250 monthly submissions). Its configured recipient is contactus.aestheticapparels@gmail.com. Both website forms now use that public form key. Mandatory hCaptcha and the advanced spam filter were saved and verified after reloading the provider settings. Live inbox delivery still requires a real inquiry test. The provider currently shows a default three-year submission retention period; business mailbox retention remains unconfirmed.
 
 The owner has not supplied a postal address/jurisdiction or business retention/deletion schedule. Policy pages use confirmed contact facts and describe provider retention without inventing those business details. These notices are not a worldwide legal compliance certification. Add the missing business disclosures after confirming applicable obligations.
 
